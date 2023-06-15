@@ -52,8 +52,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/fkinoshita/Wildcard/releases/download/v0.1.1/wildcard-0.1.1.tar.xz",
-		    "sha256" : "8360f721fd78a5226da774d330b51f44485f663a35679f19ec9c4dbc11bf559e"
+                    "url" : "https://github.com/fkinoshita/Wildcard/releases/download/v0.1.2/wildcard-0.1.2.tar.xz",
+		    "sha256" : "598dc717a8a08a846eb272664db916483ce2d3c8a8b08db2798546d2df7b0f98"
                 }
             ]
         }
